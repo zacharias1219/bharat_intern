@@ -1,6 +1,6 @@
 # bharat_intern
 
-These are my orojects for the Bharat Intern internship in Machine Learning.
+These are my projects for the Bharat Intern internship in Machine Learning.
 
 ## House Price Prediction
 
